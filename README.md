@@ -1,6 +1,6 @@
 # Hi 👋, I'm Hafeez Ahmed
 
-🎓 BS Computer Science Student  
+🎓 Bachelor of Science in Artificial Intelligence Student (F22-0159)
 💻 Interested in AI, Machine Learning, and Quantum Computing  
 🚀 Currently working on Quantum Machine Learning for Cancer Detection
 
@@ -27,17 +27,6 @@ Technologies used:
 - Data Analysis
 - C++
 
----
-
-## 🛠 Tools & Technologies
-- Python
-- PyTorch
-- Scikit-learn
-- PennyLane
-- Streamlit
-- Git & GitHub
-
----
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafeezgee&show_icons=true)
@@ -45,4 +34,4 @@ Technologies used:
 ---
 
 ## 📫 Contact
-Email: your-email@gmail.com
+Email: hafeegee3080@gmail.com
