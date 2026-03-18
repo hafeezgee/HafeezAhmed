@@ -1,6 +1,6 @@
-# Hi 👋, I'm Hafeez Ahmed
+# Hi 👋, I'm Hafeez Ahmed (F22-0159)
 
-🎓 Bachelor of Science in Artificial Intelligence Student (F22-0159)
+🎓 Bachelor of Science in Artificial Intelligence Student 
 💻 Interested in AI, Machine Learning, and Quantum Computing  
 🚀 Currently working on Quantum Machine Learning for Cancer Detection
 
@@ -8,16 +8,6 @@
 
 ## 🔬 Current Project
 🧬 Quantum Cancer Detection using Hybrid Quantum-Classical Models
-
-Technologies used:
-- Python
-- PyTorch
-- PennyLane
-- Streamlit
-- Machine Learning
-- Quantum Computing
-
----
 
 ## 🧠 Skills
 - Python Programming
